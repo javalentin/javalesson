@@ -26,6 +26,7 @@ public static void main (String [] arg){
         System.out.println("pow is...");
         System.out.println(new Calculate().sqrt(first,second));
     }
+
 }
 private double summ (double a, double b){
     return a+b;
